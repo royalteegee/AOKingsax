@@ -1,6 +1,6 @@
 <!-- <img align= "center" width="1000" src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primotech.com%2Fblog%2Fci-cd-pipeline-everything-you-need-to-know%2F&psig=AOvVaw2m6Q4xIBMixMbieUlRxI4V&ust=1676740397580000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMilnfCGnf0CFQAAAAAdAAAAABAE"> -->
 
-<img align= "center" width="1000" height="200" alt="Coding" src="https://f.hubspotusercontent20.net/hubfs/2465122/Imported_Blog_Media/Product-feedback-build@2x.png">
+<img align= "center" width="1000" alt="Coding" src="https://f.hubspotusercontent20.net/hubfs/2465122/Imported_Blog_Media/Product-feedback-build@2x.png">
 
 <h1 align="center">Hey! I'm Okwesirieze</h1>
 <h2>A Cloud DevOps Engineer' </h2>

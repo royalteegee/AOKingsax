@@ -1,4 +1,4 @@
-<!-- <img align= "center" width="1000" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/Mini-Project/images/header.png"> -->
+<!-- <img align= "center" width="1000" src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primotech.com%2Fblog%2Fci-cd-pipeline-everything-you-need-to-know%2F&psig=AOvVaw2m6Q4xIBMixMbieUlRxI4V&ust=1676740397580000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMilnfCGnf0CFQAAAAAdAAAAABAE"> -->
 
 <img align= "center" alt="Coding" src="https://blog.bit.ai/wp-content/uploads/2018/12/Kaizen-feat.png">
 

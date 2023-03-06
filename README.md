@@ -16,18 +16,10 @@ I love working with these DevOps tools: Ansible for configuration management, do
 
 - 🔭 I’m open to any internship position as a Cloud Engineer
 - 👯 I’m looking to collaborate on CI/CD pipeline projects
-- 📫 How to reach me: aokwesirieze@gmail.com
-- 😄 Pronouns: Him/he
-- ⚡ Fun fact: I am a Student of Altschool Africa and ALX-T Udacity Nanodegree program
+- ⚡ Fun fact: I love travelling and seeing new places
 
 <hr>
 <br>
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okwesirieze-amadi/)
-<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/07063902379) -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/royalkingsax)
 
 <hr>
 <br>
@@ -56,12 +48,3 @@ I love working with these DevOps tools: Ansible for configuration management, do
 
 <hr>
 
-### 👔 Soft skills
-
-✅ Good communication skills
-
-✅ Leadership
-
-✅ Teamwork
-
-<hr>
